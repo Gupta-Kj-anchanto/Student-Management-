@@ -1,0 +1,10 @@
+com/assignment/firstproject/model/semester.class
+com/assignment/firstproject/FirstprojectApplication.class
+com/assignment/firstproject/repository/resultsRepository.class
+com/assignment/firstproject/model/results.class
+com/assignment/firstproject/service/resultsService.class
+com/assignment/firstproject/exception/recordNotFoundException.class
+com/assignment/firstproject/service/studentService.class
+com/assignment/firstproject/controller/studentController.class
+com/assignment/firstproject/repository/studentRepository.class
+com/assignment/firstproject/model/student.class

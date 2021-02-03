@@ -1,0 +1,10 @@
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/FirstprojectApplication.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/repository/resultsRepository.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/model/results.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/service/studentService.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/service/resultsService.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/model/student.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/exception/recordNotFoundException.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/controller/studentController.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/model/semester.java
+/Users/Kajal/Desktop/Spring Projects/src/main/java/com/assignment/firstproject/repository/studentRepository.java
